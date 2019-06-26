@@ -1,5 +1,7 @@
 <?php
-
+/*
+test by tuzwu
+ */
 class AdminBlogsController extends AdminController {
 
 
